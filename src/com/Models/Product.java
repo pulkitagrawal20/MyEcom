@@ -1,5 +1,6 @@
 package com.Models;
 
+import java.util.ArrayList;
 import java.util.Objects;
 
 public class Product {
@@ -9,6 +10,9 @@ public class Product {
     public Product(String name,String imageURL) {
         this.name = name;
         this.imageURL=imageURL;
+    }
+
+    public Product(String surf_excel, String imageURL, ArrayList<Variants> varients) {
     }
 
     @Override

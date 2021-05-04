@@ -1,16 +1,5 @@
 package com.streamliners_task4_1;
 
-import com.Models.Product;
-import com.Models.VarientBasedProducts;
-import com.Models.Varients;
-import com.Models.WeightBasedProduct;
-import jdk.nashorn.internal.parser.JSONParser;
-
-import javax.xml.soap.SOAPPart;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
 public class Main {
 
     public static void main(String[] args) {

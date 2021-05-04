@@ -3,9 +3,9 @@ package com.Models;
 import java.util.List;
 
 public class VarientBasedProducts extends Product{
-    List<Varients> varients;
+    List<Variants> varients;
 
-    public VarientBasedProducts(String name, String imageURL, List<Varients> varients) {
+    public VarientBasedProducts(String name, String imageURL, List<Variants> varients) {
         super(name, imageURL);
         this.varients = varients;
     }
