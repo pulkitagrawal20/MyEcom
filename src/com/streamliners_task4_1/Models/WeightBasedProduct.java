@@ -1,4 +1,4 @@
-package com.Models;
+package com.streamliners_task4_1.Models;
 
 public class WeightBasedProduct extends Product {
     float pricePerKg;

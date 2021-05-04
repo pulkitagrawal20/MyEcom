@@ -1,6 +1,6 @@
 package com.streamliners_task_4_2_2.models;
 
-import com.Models.Variants;
+import com.streamliners_task4_1.Models.Variants;
 
 import java.util.ArrayList;
 import java.util.HashMap;

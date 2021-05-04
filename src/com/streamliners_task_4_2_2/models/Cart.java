@@ -1,6 +1,6 @@
 package com.streamliners_task_4_2_2.models;
 
-import com.Models.Variants;
+import com.streamliners_task4_1.Models.Variants;
 /*import com.streamliners_task_4_2_1.Models.CartItem;
 import com.streamliners_task_4_2_1.Models.Product;
 import com.streamliners_task_4_2_1.Models.ProductType;*/

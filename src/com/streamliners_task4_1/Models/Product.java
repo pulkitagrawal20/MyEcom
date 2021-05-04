@@ -1,4 +1,4 @@
-package com.Models;
+package com.streamliners_task4_1.Models;
 
 import java.util.ArrayList;
 import java.util.Objects;
